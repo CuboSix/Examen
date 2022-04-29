@@ -153,27 +153,29 @@ line-height: 75px;
 color: #6E29A9;
 }
 
-.Cuerpo2 .imagenCuerpo2{
+.imagenCuerpo2{
     position: absolute;
-    width: 14px;
-    height: 14px;
+    width: 554px;
+    height: 389px;
     left: -420px;
     top: 91px;
     border-radius: 20px;
 }
 
-.Cuerpo2 .Texto2 p{
+.Texto2 {
     position: absolute;
-    width: 14px;
-    height: 14px;
-    left: 140px;
-    top: 81px;
-    
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 400;
-    font-size:10px;
-    line-height: 40px;
-    text-align: justify;
-    color: #000000;
+width: 460px;
+height: 209px;
+left: 165px;
+top: 121px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 200;
+font-size: 20px;
+line-height: 40px;
+/* or 200% */
+
+
+color: #000000;
 }
