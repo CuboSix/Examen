@@ -297,3 +297,34 @@ height: 74px;
     top: 660px;
     
 }
+
+.Cuerpo2 .Texto4{
+
+    position: absolute;
+width: 460px;
+height: 209px;
+left: 35px;
+top: 820px;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 64px;
+line-height: 75px;
+/* identical to box height */
+
+
+color: #6E29A9;
+}
+
+.Cuerpo2 .LineaNoticias{
+
+    position: absolute;
+width: 105px;
+height: 6px;
+left: 65px;
+top: 900px;
+
+background: #01A1E9;    
+
+}
