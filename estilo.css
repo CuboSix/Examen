@@ -233,3 +233,67 @@ line-height: 75px;
 
 color: #6E29A9;
 }
+
+.Cuerpo2 .LineaPatrocinador{
+
+    position: absolute;
+width: 105px;
+height: 6px;
+left: 85px;
+top: 630px;
+
+background: #01A1E9;    
+
+}
+
+.Cuerpo2 .primeraimg{
+    position: absolute;
+    width: 105px;
+    height: 6px;
+    left: -155px;
+    top: 660px;
+    
+}
+.Cuerpo2 .segundaimg{
+    position: absolute;
+    width: 74px;
+height: 74px;
+    left: -35px;
+    top: 660px;
+    
+}
+
+.Cuerpo2 .terceraimg{
+    position: absolute;
+    width: 74px;
+height: 74px;
+    left: 95px;
+    top: 660px;
+    
+}
+
+.Cuerpo2 .cuartaimg{
+    position: absolute;
+    width: 74px;
+height: 74px;
+    left: 200px;
+    top: 660px;
+    
+}
+.Cuerpo2 .quintaimg{
+    position: absolute;
+    width: 74px;
+height: 74px;
+    left: 305px;
+    top: 660px;
+    
+}
+
+.Cuerpo2 .sextaimg{
+    position: absolute;
+    width: 74px;
+height: 74px;
+    left: 435px;
+    top: 660px;
+    
+}
