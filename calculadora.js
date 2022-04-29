@@ -28,6 +28,11 @@ if (SalarioAnual<=100000) {
     calculo=(((SalarioAnual-200000)*0.2)/12)
     SalarioResultante=SalarioNeto-calculo
     document.getElementById("Respuesta4").value="C$ "+SalarioResultante + " Cordobas"
+}else if(SalarioAnual>350000 || SalarioAnual<=500000){
+    calculo=(((SalarioAnual-350000)*0.25)/12)
+    SalarioResultante=SalarioNeto-calculo
+    document.getElementById("Respuesta4").value="C$ "+SalarioResultante + " Cordobas"
+
 }
 
 
