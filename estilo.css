@@ -82,6 +82,8 @@ top: 34px;
 font-size: 20px;
 }
 
+
+
 .titulos .AcercaDe{
     left: 163vh;
 
@@ -102,7 +104,7 @@ top: 34px;
 background: #F5F5F5;
 border-radius: 6px;
 text-align: center;
-
+color: #6E29A9;
 }
 
 nav ul li a:hover{
