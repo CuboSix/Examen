@@ -508,3 +508,21 @@ color: #6E29A9;
     width: 120px;
 }
 
+.lorem{
+    position: absolute;
+width: 245px;
+height: 40px;
+left: 155vh;
+top: 14vh;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 40px;
+/* identical to box height, or 200% */
+
+
+color: #FFFFFF;
+
+}
