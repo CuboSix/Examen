@@ -251,7 +251,7 @@ background: #01A1E9;
     width: 105px;
     height: 6px;
     left: -155px;
-    top: 660px;
+    top: 680px;
     
 }
 .Cuerpo2 .segundaimg{
@@ -259,7 +259,7 @@ background: #01A1E9;
     width: 74px;
 height: 74px;
     left: -35px;
-    top: 660px;
+    top: 680px;
     
 }
 
@@ -268,7 +268,7 @@ height: 74px;
     width: 74px;
 height: 74px;
     left: 95px;
-    top: 660px;
+    top: 680px;
     
 }
 
@@ -277,7 +277,7 @@ height: 74px;
     width: 74px;
 height: 74px;
     left: 200px;
-    top: 660px;
+    top: 680px;
     
 }
 .Cuerpo2 .quintaimg{
@@ -285,7 +285,7 @@ height: 74px;
     width: 74px;
 height: 74px;
     left: 305px;
-    top: 660px;
+    top: 680px;
     
 }
 
@@ -294,7 +294,7 @@ height: 74px;
     width: 74px;
 height: 74px;
     left: 435px;
-    top: 660px;
+    top: 680px;
     
 }
 
@@ -531,6 +531,6 @@ color: #FFFFFF;
 
     position: absolute;
     left: 205px;
-top: 14vh;
+    top: 14vh;
 
 }
