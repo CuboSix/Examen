@@ -526,3 +526,11 @@ line-height: 40px;
 color: #FFFFFF;
 
 }
+
+.PieDePagina .ImagenP{
+
+    position: absolute;
+    left: 205px;
+top: 14vh;
+
+}
