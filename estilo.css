@@ -329,22 +329,25 @@ background: #01A1E9;
 
 }
 
-.Cuerpo3 .imagen1{
+.Cuerpo3 .ImagenIzquierda{
 
     position: absolute;
-    width: 282px;
-height: 282px;
     left: 185px;
     top: 265vh;  
+}
+.Cuerpo3 .ImagenIzquierda .imagen1{
 
+    width: 282px;
+    height: 282px;    
 }
 
-.TextoImg{
+.Cuerpo3 .ImagenIzquierda .TextoImg{
     position: absolute;
 width: 298px;
 height: 28px;
-left: 211px;
-top: 298vh;
+left: 21px;
+top:33vh;
+
 
 font-family: 'Roboto';
 font-style: normal;
@@ -356,19 +359,64 @@ color: #FFFFFF;
 }
 
 
-.TextoImg2{
+.Cuerpo3 .ImagenIzquierda .TextoImg2{
     position: absolute;
 width: 298px;
 height: 28px;
-left: 211px;
-top: 302vh;
+left: 21px;
+top: 36vh;
 
 font-family: 'Roboto';
 font-style: normal;
-font-weight: 100;
+font-weight: 200;
 font-size: 12px;
 line-height: 28px;
 
 color: #FFFFFF;
 }
 
+.Cuerpo3 .Imagencentro{
+
+    position: absolute;
+    left: 485px;
+    top: 265vh;  
+}
+
+.Cuerpo3 .Imagencentro .imagen1{
+
+    width: 282px;
+    height: 282px;    
+}
+
+.Cuerpo3 .Imagencentro .TextoImg{
+    position: absolute;
+width: 298px;
+height: 28px;
+left: 21px;
+top:33vh;
+
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 18px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
+
+.Cuerpo3 .Imagencentro .TextoImg2{
+    position: absolute;
+width: 298px;
+height: 28px;
+left: 21px;
+top: 36vh;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 200;
+font-size: 12px;
+line-height: 28px;
+
+color: #FFFFFF;
+}
