@@ -158,3 +158,41 @@ nav ul li a:hover {
     background: linear-gradient(to right,#fb5283,#ff3527);
     
 }
+
+.R2 p{
+
+    position: absolute;
+    left: 90vh;
+    top: 90vh ;
+}
+
+.R2 .Respuesta1{
+    position: absolute;
+    left: 81vh;
+    top: 95vh ;
+    width: 35vh;
+    height: 4vh;
+    cursor: pointer;
+    border-radius: 5px;
+    background: linear-gradient(to right,#fb5283,#ff3527);
+    
+}
+
+.R3 p{
+
+    position: absolute;
+    left: 80vh;
+    top: 102vh ;
+}
+
+.R3 .Respuesta1{
+    position: absolute;
+    left: 81vh;
+    top: 107vh ;
+    width: 35vh;
+    height: 4vh;
+    cursor: pointer;
+    border-radius: 5px;
+    background: linear-gradient(to right,#fb5283,#ff3527);
+    
+}
