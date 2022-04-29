@@ -200,4 +200,107 @@ color: #000000;
 
 }
 
+.Cuerpo3 h2{
 
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: bolder;
+    font-size: 25px;
+    line-height: 75px;
+    /* identical to box height */
+    
+    color: #523E97;
+
+
+    position: absolute;
+    left: 33vh;
+    top: 117vh;
+
+    width: 815px;
+    
+}
+
+.Cuerpo3 .TextoImagen2{
+
+    position: absolute;
+width: 55vh;
+height: 208px;
+left: 37vh;
+    top: 126vh;
+
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 10px;
+line-height: 23px;
+
+color: #000000;
+
+}
+
+.PieDePagina{
+
+    position: relative;
+width: 100%;
+height: 189px;
+left: 0px;
+top: 130vh;
+
+background: #1B314F;
+}
+
+.PieDePagina .aguito{
+
+position: absolute;
+width: 153px;
+height: 40px;
+left: 251px;
+top: 14vh;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 35px;
+line-height: 47px;
+
+color: #6E29A9;
+
+}
+
+.PieDePagina .Linea{
+    position: absolute;
+    left: 250px;
+    top: 12vh;
+    
+}
+
+.Linea1{
+    width: 120px;
+}
+
+.lorem{
+    position: absolute;
+width: 245px;
+height: 40px;
+left: 155vh;
+top: 14vh;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 40px;
+/* identical to box height, or 200% */
+
+
+color: #FFFFFF;
+
+}
+
+.PieDePagina .ImagenP{
+
+    position: absolute;
+    left: 205px;
+    top: 14vh;
+
+}
