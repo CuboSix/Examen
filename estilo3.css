@@ -1,118 +1,129 @@
-*{
+* {
+  margin: 0;
+  padding: 0;
+}
 
-    margin: 0;
-    padding: 0;
+.Macbook3 {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+
+  /* background: #FFFFFF; */
+
+  font-weight: bold;
+}
+
+.Menu {
+  box-shadow: 0px 4px 10px;
+  height: 85px;
+}
+.Macbook1 .Encabezado .Menu {
+  position: relative;
+  width: 100%;
+  height: 15vh;
+  left: 0px;
+  top: 0px;
+
+  background: #ffffff;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+}
+
+.aguito {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+
+  font-size: 30px;
+  line-height: 47px;
+
+  color: #6e29a9;
+}
+
+.Menu .imagenDerecha .ImagenP {
+  position: absolute;
+  left: 13.03%;
+  right: 84.33%;
+  top: 15px;
+  bottom: 97.65%;
+}
+
+.Menu .imagenDerecha .Linea {
+  position: absolute;
+  width: 142px;
+  height: 3px;
+  left: 220px;
+  top: 10px;
+}
+
+.Menu .imagenDerecha .TextoP {
+  position: absolute;
+  width: 142px;
+  height: 3px;
+  left: 220px;
+  top: 17px;
+}
+
+.titulos ul li a {
+  text-decoration: none;
+  color: #01a1e9;
+  font-size: 14px;
+  position: absolute;
+  left: 876px;
+  top: 34px;
+  font-size: 20px;
+}
+
+.titulos .AcercaDe {
+  left: 163vh;
+}
+
+.titulos .Aplicacion {
+  left: 185vh;
+}
+
+.titulos .Aplicacion {
+  position: absolute;
+  width: 115px;
+  height: 30px;
+  left: 188vh;
+  top: 33px;
+
+  background: #f5f5f5;
+  border-radius: 6px;
+  text-align: center;
+  color: #6e29a9;
+}
+
+nav ul li a:hover {
+  color: #ff5ea2;
+}
+
+.Cuerpo h2{
+    position: absolute;
+    color: #8200FF;
+    left: 75vh;
+    top: 28vh;
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.Cuerpo P{
+    position: absolute;
+    color: #1B314F;
+    left: 75vh;
+    top: 45vh;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+#TxtSalario{
+
+    position: absolute;
+    left: 81vh;
+    top: 55vh ;
+    width: 35vh;
+    height: 4vh;
     
+    border-radius: 5px;
 }
 
-.Macbook3{
-    
-    position: absolute;
-    width: 100%;
-    height: 100%;
-    
-    /* background: #FFFFFF; */
-
-    font-weight: bold;
-}
-
-
-.Menu{
-    box-shadow: 0px 4px 10px;
-    height: 85px;
-}
-.Macbook1 .Encabezado .Menu{
-
-    position: relative;
-width: 100%;
-height: 15vh;
-left: 0px;
-top: 0px;
-
-background: #FFFFFF;
-box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
-
-}
-
-.aguito{
-
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-
-font-size: 30px;
-line-height: 47px;
-
-color: #6E29A9;
-
-}
-
-.Menu .imagenDerecha .ImagenP{
-
-    position: absolute;
-    left: 13.03%;
-    right: 84.33%;
-    top: 15px;
-    bottom: 97.65%;
-
-}
-
-.Menu .imagenDerecha .Linea{
-
-    position: absolute;
-    width: 142px;
-    height: 3px;
-    left: 220px;
-    top: 10px;
-
-}
-
-.Menu .imagenDerecha .TextoP{
-
-    position: absolute;
-    width: 142px;
-    height: 3px;
-    left: 220px;
-    top: 17px;
-
-}
-
-.titulos  ul li a{
-    text-decoration: none;
-    color: #01A1E9;
-    font-size: 14px;
-    position: absolute;
-left: 876px;
-top: 34px; 
-font-size: 20px;
-}
-
-
-
-.titulos .AcercaDe{
-    left: 163vh;
-
-}
-
-.titulos .Aplicacion{
-    left: 185vh;
-}
-
-.titulos .Aplicacion{
-
-    position: absolute;
-width: 115px;
-height:30px;
-left: 188vh;
-top: 33px;
-
-
-background: #F5F5F5;
-border-radius: 6px;
-text-align: center;
-color: #6E29A9;
-}
-
-nav ul li a:hover{
-    color: #ff5ea2;
-}
