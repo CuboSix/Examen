@@ -152,3 +152,28 @@ line-height: 75px;
 
 color: #6E29A9;
 }
+
+.Cuerpo2 .imagenCuerpo2{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: -420px;
+    top: 91px;
+    border-radius: 20px;
+}
+
+.Cuerpo2 .Texto2 p{
+    position: absolute;
+    width: 14px;
+    height: 14px;
+    left: 140px;
+    top: 81px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size:10px;
+    line-height: 40px;
+    text-align: justify;
+    color: #000000;
+}
