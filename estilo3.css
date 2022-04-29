@@ -123,7 +123,19 @@ nav ul li a:hover {
     top: 55vh ;
     width: 35vh;
     height: 4vh;
-    
+    cursor: pointer;
     border-radius: 5px;
 }
 
+.Calcular{
+
+    position: absolute;
+    left: 88vh;
+    top: 67vh ;
+    width: 20vh;
+    height: 4vh;
+    cursor: pointer;
+    border-radius: 5px;
+    background: linear-gradient(to right,#fb5283,#ff3527);
+    
+}
